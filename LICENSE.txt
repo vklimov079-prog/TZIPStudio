@@ -1,0 +1,54 @@
+TZIPStudio Software License (v1.0)
+Copyright (c) 2026 CreatorGames (CreatorGamesAPK). All rights reserved.
+
+1. GRANT OF LICENSE
+Permission is hereby granted, free of charge, to any person or entity obtaining a copy
+of this software and associated documentation files (the "Software"), to use, copy,
+and integrate the Software and the .tzip format into their workflow for developing
+personal, educational, free, or commercial games, applications, and media projects.
+
+2. COMMERCIAL USE IN GAMES AND APPLICATIONS
+You ARE permitted to use the Software to pack, unpack, manage, and distribute data
+and assets for commercial (paid) games and software products without paying royalties
+to the copyright holder.
+
+3. RESTRICTIONS (NO DIRECT SALE OR PAID REDISTRIBUTION)
+You ARE NOT permitted to:
+- Sell, rent, lease, sublicense, or otherwise distribute the Software itself (or any
+  modified version of the Software) for direct commercial gain or fee.
+- Include the Software as a standalone paid product or bundle it into paid developer
+  toolpacks without explicit written permission from CreatorGames (CreatorGamesAPK).
+
+4. ATTRIBUTION
+The above copyright notice and this permission notice shall be included in all copies
+or substantial portions of the Software.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+--------------------------------------------------------------------------------
+ПЕРЕВОД ОСНОВНЫХ УСЛОВИЙ (РУССКИЙ)
+
+Лицензия на программное обеспечение TZIPStudio (v1.0)
+Copyright (c) 2026 CreatorGames (CreatorGamesAPK). Все права защищены.
+
+1. РАЗРЕШЁННОЕ ИСПОЛЬЗОВАНИЕ (В ТОМ ЧИСЛЕ В КОММЕРЧЕСКИХ ИГРАХ)
+Разрешается бесплатно использовать данную программу и формат .tzip для создания,
+упаковки и распространения данных в любых личных, бесплатных и КОММЕРЧЕСКИХ
+(платных) играх и приложениях без выплаты отчислений автору.
+
+2. ЗАПРЕТ НА ПРЯМУЮ ПРОДАЖУ ПРОГРАММЫ
+Запрещается продавать, сдавать в аренду или распространять на платной основе саму
+программу TZIPStudio (а также её изменённые версии) как самостоятельный продукт
+или в составе платных наборов инструментов без письменного разрешения
+CreatorGames (CreatorGamesAPK).
+
+3. АВТОРСТВО И ОТКАЗ ОТ ГАРАНТИЙ
+При копировании или распространении исходного кода программы сохранение данного
+уведомления об авторских правах обязательно. Программа предоставляется «как есть»
+без каких-либо гарантий.
