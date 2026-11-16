@@ -1,4 +1,4 @@
-TZIPStudio Software License (v1.0)
+TZIPStudio Software License (aplha)
 Copyright (c) 2026 CreatorGames (CreatorGamesAPK). All rights reserved.
 
 1. GRANT OF LICENSE
